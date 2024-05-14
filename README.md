@@ -15,7 +15,7 @@ Developing predictive models to forecast employee attrition and identify at-risk
 Providing recommendations for companies to improve employee retention strategies and reduce attrition rates.
 # Dashboard
 A dashboard has been created to visualize the analysis findings. It includes interactive charts and tables to explore employee attrition data dynamically.
-
+[ https://github.com/Prashantsharma3/Company-Attrition-Analysis ]
 # Technologies Used
 Python
 Pandas
